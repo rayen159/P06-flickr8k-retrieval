@@ -8,5 +8,7 @@ Download date: (fill in)
 - notebooks/  one notebook per person, then a merged final one
 - report/     report draft
 
+data download date:
+26/11/2026
 ## How to run
 (fill in)
